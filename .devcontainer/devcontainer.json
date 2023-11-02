@@ -1,5 +1,5 @@
 {
-  "image": "ghcr.io/devcontainers-contrib/features/akamai-cli:1",
+  "image": "u1ih/ubuntu-novnc",
   "features": {
   }
 }
