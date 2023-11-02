@@ -1,0 +1,5 @@
+{
+  "image": "ghcr.io/devcontainers-contrib/features/akamai-cli:1",
+  "features": {
+  }
+}
